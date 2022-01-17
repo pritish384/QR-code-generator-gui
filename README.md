@@ -1,1 +1,1 @@
-# QR-code-generator-gui
+# QR-code-generator-GUI
